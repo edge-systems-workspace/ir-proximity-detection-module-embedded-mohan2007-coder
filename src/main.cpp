@@ -14,7 +14,7 @@
 const int IR_PIN = 2;
 
 // TODO 2:
-// Create variable to store sensor state
+// Createvariable to store sensor state
 int sensorState = 0;
 
 void setup() {
