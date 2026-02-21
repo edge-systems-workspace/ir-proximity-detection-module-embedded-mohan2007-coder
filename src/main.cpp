@@ -10,7 +10,7 @@
  */
 
 // TODO 1:
-// Define IR sensor digital pin (Use pin 2)
+// Define IR sensor digital pin(Use pin 2)
 const int IR_PIN = 2;
 
 // TODO 2:
